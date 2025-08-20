@@ -170,12 +170,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="268" y="1172" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="FrEy5FZVpKa6H1ve-ymy-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -200,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-33" value="术中组织采集&#xa;肝组织、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="327" y="1228" width="172" height="66" as="geometry" />
+          <mxGeometry x="291" y="1192" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-34" value="术前、术后多时间点&#xa;外周血采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1192" width="204" height="66" as="geometry" />
