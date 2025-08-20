@@ -123,7 +123,7 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-21" value="筛选出关键预测性生物标志物" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="142" y="1534" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="142" y="1899" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-21" target="FrEy5FZVpKa6H1ve-ymy-6">
