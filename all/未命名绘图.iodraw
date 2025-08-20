@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-6" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-107.75" y="1750" width="758" height="159" as="geometry" />
+          <mxGeometry x="-111" y="1668" width="758" height="159" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-7" value="构建共培养体系&#xa;组织匀浆上清 + 健康人血小板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-6">
           <mxGeometry x="43" y="46" width="172" height="84" as="geometry" />
@@ -115,16 +115,16 @@
           <mxGeometry x="142" y="1063" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-19" value="组织分子表达水平 vs.&#xa;血小板功能动态变化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="13" y="1478" width="213" height="66" as="geometry" />
+          <mxGeometry x="9.75" y="1396" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-20" value="组织分子表达水平 vs.&#xa;临床结局（如PVT）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316.25" y="1478" width="213" height="66" as="geometry" />
+          <mxGeometry x="313" y="1396" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-21" value="筛选出关键预测性生物标志物&#xa;（如脾脏HMGB1）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="145.25" y="1616" width="252" height="84" as="geometry" />
+          <mxGeometry x="142" y="1534" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="145.25" y="1981" width="252" height="84" as="geometry" />
+          <mxGeometry x="142" y="1899" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-21" target="FrEy5FZVpKa6H1ve-ymy-6">
           <mxGeometry relative="1" as="geometry">
