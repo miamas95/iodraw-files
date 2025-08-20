@@ -118,7 +118,7 @@
           <mxGeometry x="3" y="1427" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-20" value="组织分子表达水平 vs.&#xa;临床结局（如PVT）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="306.25" y="1427" width="213" height="66" as="geometry" />
+          <mxGeometry x="342" y="1425" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-21" value="筛选出关键预测性生物标志物&#xa;（如脾脏HMGB1）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="142" y="1534" width="252" height="84" as="geometry" />
@@ -134,14 +134,6 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-32" value="验证结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-6" target="FrEy5FZVpKa6H1ve-ymy-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-33" target="FrEy5FZVpKa6H1ve-ymy-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="412" y="1269" />
-              <mxPoint x="327" y="1269" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-33" value="术中采集肝、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
