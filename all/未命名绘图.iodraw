@@ -114,15 +114,6 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-12" value="分子生物学检测&#xa;qPCR/ WB检测关键分子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-10">
           <mxGeometry x="313" y="46" width="229" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-13" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1172" width="496" height="141" as="geometry" />
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-14" value="术前、术后多时间点&#xa;外周血采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-13">
-          <mxGeometry x="43" y="46" width="204" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-15" value="术中组织采集&#xa;肝组织、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-13">
-          <mxGeometry x="297" y="46" width="172" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-16" value="建立肝硬化脾切除患者队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="142" y="1063" width="252" height="66" as="geometry" />
         </mxCell>
@@ -179,14 +170,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-16" target="FrEy5FZVpKa6H1ve-ymy-13">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="268" y="1172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-13" target="FrEy5FZVpKa6H1ve-ymy-17">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="FrEy5FZVpKa6H1ve-ymy-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="268" y="1313" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-30" value="输入数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.18;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-10" target="FrEy5FZVpKa6H1ve-ymy-18">
@@ -210,7 +203,7 @@
           <mxGeometry x="327" y="1228" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-34" value="术前、术后多时间点&#xa;外周血采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="73" y="1228" width="204" height="66" as="geometry" />
+          <mxGeometry x="13" y="1192" width="204" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
