@@ -118,43 +118,13 @@
           <mxGeometry x="13" y="1478" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-20" value="组织分子表达水平 vs.&#xa;临床结局（如PVT）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1860" width="213" height="66" as="geometry" />
+          <mxGeometry x="316.25" y="1478" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-21" value="筛选出关键预测性生物标志物&#xa;（如脾脏HMGB1）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="1976" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="2341" width="252" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="FrEy5FZVpKa6H1ve-ymy-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="368" y="1835" />
-            </Array>
-            <mxPoint x="444.6530612244901" y="1754.65306122449" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="FrEy5FZVpKa6H1ve-ymy-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="631" y="1835" />
-            </Array>
-            <mxPoint x="555.3469387755104" y="1754.65306122449" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-19" target="FrEy5FZVpKa6H1ve-ymy-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="368" y="1951" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.83;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-20" target="FrEy5FZVpKa6H1ve-ymy-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="631" y="1951" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-21" target="FrEy5FZVpKa6H1ve-ymy-6">
           <mxGeometry relative="1" as="geometry">
