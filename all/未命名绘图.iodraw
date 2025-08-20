@@ -208,6 +208,9 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-39" value="分析临床预后相关性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1381" width="204" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1315" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
