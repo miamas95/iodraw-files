@@ -206,6 +206,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-33" value="术中组织采集&#xa;肝组织、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1228" width="172" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
