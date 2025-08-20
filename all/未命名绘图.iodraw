@@ -114,9 +114,6 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-16" value="建立肝硬化脾切除患者队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="142" y="1063" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-18" value="第三阶段: 数据整合与相关性分析" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="387" y="1584" width="226" height="226" as="geometry" />
-        </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-19" value="组织分子表达水平 vs.&#xa;血小板功能动态变化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1478" width="213" height="66" as="geometry" />
         </mxCell>
@@ -129,18 +126,20 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="2341" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-18" target="FrEy5FZVpKa6H1ve-ymy-19">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="FrEy5FZVpKa6H1ve-ymy-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="368" y="1835" />
             </Array>
+            <mxPoint x="444.6530612244901" y="1754.65306122449" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-18" target="FrEy5FZVpKa6H1ve-ymy-20">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="FrEy5FZVpKa6H1ve-ymy-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="631" y="1835" />
             </Array>
+            <mxPoint x="555.3469387755104" y="1754.65306122449" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-19" target="FrEy5FZVpKa6H1ve-ymy-21">
