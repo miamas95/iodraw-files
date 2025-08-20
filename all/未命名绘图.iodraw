@@ -118,7 +118,7 @@
           <mxGeometry x="387" y="1584" width="226" height="226" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-19" value="组织分子表达水平 vs.&#xa;血小板功能动态变化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="1860" width="213" height="66" as="geometry" />
+          <mxGeometry x="13" y="1478" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-20" value="组织分子表达水平 vs.&#xa;临床结局（如PVT）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="525" y="1860" width="213" height="66" as="geometry" />
