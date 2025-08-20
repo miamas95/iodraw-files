@@ -145,9 +145,6 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-34" value="术前、术后多时间点&#xa;外周血采集，分离PRP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1192" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-37" target="FrEy5FZVpKa6H1ve-ymy-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-37" value="光比浊法检测血小板聚集&#xa;流式细胞术检测血小板活化、凋亡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1289" width="204" height="66" as="geometry" />
         </mxCell>
