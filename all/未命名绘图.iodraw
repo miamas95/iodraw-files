@@ -93,15 +93,6 @@
         <mxCell id="Lx7Ud2byuqHO1ZKNTNP8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.292;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="Lx7Ud2byuqHO1ZKNTNP8-10" target="Lx7Ud2byuqHO1ZKNTNP8-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-3" target="FrEy5FZVpKa6H1ve-ymy-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-3" value="流式检测PLT活化marker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="826" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-4" value="分析与临床指标集预后相关性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="966" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-6" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="121" y="2110" width="758" height="159" as="geometry" />
         </mxCell>
