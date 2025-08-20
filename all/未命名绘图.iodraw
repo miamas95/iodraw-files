@@ -115,7 +115,7 @@
           <mxGeometry x="313" y="46" width="229" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-13" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1179" width="496" height="141" as="geometry" />
+          <mxGeometry x="20" y="1172" width="496" height="141" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-14" value="术前、术后多时间点&#xa;外周血采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-13">
           <mxGeometry x="43" y="46" width="204" height="66" as="geometry" />
@@ -123,7 +123,7 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-15" value="术中组织采集&#xa;肝组织、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-13">
           <mxGeometry x="297" y="46" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-16" value="前瞻性建立肝硬化脾切除患者队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-16" value="建立肝硬化脾切除患者队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="142" y="1063" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-17" value="临床数据收集&#xa;Demographics, Child-Pugh分级, 血栓事件等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
