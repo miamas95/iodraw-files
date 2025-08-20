@@ -198,8 +198,8 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-39" value="分析临床预后相关性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1381" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-41" value="术中组织采集&#xa;肝组织、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1202" width="172" height="66" as="geometry" />
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-41" value="HE染色、天狼猩红染色、免疫组化、免疫荧光" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="326" y="1289" width="172" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
