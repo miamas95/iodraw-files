@@ -167,7 +167,7 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-41" value="HE染色&#xa;天狼猩红染色&#xa;免疫组化&#xa;免疫荧光" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="248" y="1289" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-43" value="qPCR/WB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-43" value="RNA-Seq&#xa;qPCR/WB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="1289" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-59" target="FrEy5FZVpKa6H1ve-ymy-20">
