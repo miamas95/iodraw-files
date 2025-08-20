@@ -145,7 +145,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-33" target="FrEy5FZVpKa6H1ve-ymy-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="1269" />
+              <mxPoint x="334" y="1269" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-33" value="术中采集肝、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="1192" width="172" height="66" as="geometry" />
@@ -164,6 +169,9 @@
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-43" value="qPCR/WB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="1289" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="1336" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
