@@ -211,8 +211,8 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-37" value="光比浊法检测血小板聚集&#xa;流式细胞术检测血小板活化、凋亡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1289" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-39" value="光比浊法检测血小板聚集&#xa;流式细胞术检测血小板活化、凋亡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23" y="1299" width="204" height="66" as="geometry" />
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-39" value="分析临床预后相关性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="13" y="1381" width="204" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
