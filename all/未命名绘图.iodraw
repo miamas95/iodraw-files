@@ -209,6 +209,9 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-33" value="术中组织采集&#xa;肝组织、脾组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="327" y="1228" width="172" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-34" value="术前、术后多时间点&#xa;外周血采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="73" y="1228" width="204" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
