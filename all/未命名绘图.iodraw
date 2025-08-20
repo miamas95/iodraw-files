@@ -114,7 +114,7 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-12" value="分子生物学检测&#xa;qPCR/ WB检测关键分子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-10">
           <mxGeometry x="313" y="46" width="229" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-13" value="第一阶段: 多维临床标本库建设" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-13" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="1179" width="496" height="141" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-14" value="术前、术后多时间点&#xa;外周血采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FrEy5FZVpKa6H1ve-ymy-13">
