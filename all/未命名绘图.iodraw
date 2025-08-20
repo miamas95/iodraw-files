@@ -164,9 +164,6 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-37" value="光比浊法检测血小板聚集&#xa;流式细胞术检测血小板活化、凋亡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="13" y="1289" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-39" value="分析临床预后相关性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-218" y="1290" width="204" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-41" value="HE染色、天狼猩红染色、免疫组化、免疫荧光" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="241" y="1289" width="172" height="66" as="geometry" />
         </mxCell>
@@ -184,6 +181,9 @@
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-50" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="326" y="1356" width="205" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.348;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-33" target="FrEy5FZVpKa6H1ve-ymy-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
