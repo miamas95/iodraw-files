@@ -123,9 +123,6 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-16" value="建立肝硬化脾切除患者队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="142" y="1063" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-17" value="临床数据收集&#xa;Demographics, Child-Pugh分级, 血栓事件等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="138" y="1399" width="260" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-18" value="第三阶段: 数据整合与相关性分析" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="387" y="1584" width="226" height="226" as="geometry" />
         </mxCell>
@@ -141,11 +138,12 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="2341" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-23" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-17" target="FrEy5FZVpKa6H1ve-ymy-18">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-23" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" target="FrEy5FZVpKa6H1ve-ymy-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="268" y="1548" />
             </Array>
+            <mxPoint x="268" y="1483" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FrEy5FZVpKa6H1ve-ymy-18" target="FrEy5FZVpKa6H1ve-ymy-19">
