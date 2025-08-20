@@ -157,7 +157,7 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-43" value="qPCR/WB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="525" y="1289" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-46" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-46" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="220" y="1419" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
