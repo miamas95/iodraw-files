@@ -146,13 +146,13 @@
           <mxGeometry x="3" y="1192" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-37" value="光比浊法检测血小板聚集&#xa;流式细胞术检测血小板活化、凋亡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1289" width="204" height="66" as="geometry" />
+          <mxGeometry x="2" y="1289" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-41" value="HE染色、天狼猩红染色、免疫组化、免疫荧光" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="208" y="1289" width="172" height="66" as="geometry" />
+          <mxGeometry x="230" y="1289" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-43" value="qPCR/WB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="407" y="1289" width="172" height="66" as="geometry" />
+          <mxGeometry x="429" y="1289" width="172" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
