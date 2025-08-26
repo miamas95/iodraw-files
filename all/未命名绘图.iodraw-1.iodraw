@@ -11,7 +11,7 @@
           <mxGeometry x="71" y="150" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-6" value="脾脏切除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="54" width="124" height="49" as="geometry" />
+          <mxGeometry x="310" y="45" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-7" value="血小板计数&#xa;报复性升高" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="140" height="66" as="geometry" />
@@ -40,13 +40,6 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-4" target="iFZg3KW_5B1X9bJx--1o-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-6" target="iFZg3KW_5B1X9bJx--1o-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="383" y="136" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-17" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-6" target="iFZg3KW_5B1X9bJx--1o-8">
