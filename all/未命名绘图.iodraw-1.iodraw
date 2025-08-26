@@ -30,7 +30,13 @@
           <mxGeometry x="414" y="53.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-7" target="iFZg3KW_5B1X9bJx--1o-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="272" />
+              <mxPoint x="260" y="272" />
+              <mxPoint x="260" y="327" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -83,6 +89,9 @@
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-45" value="功能未恢复" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="61" y="328" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-5" target="iFZg3KW_5B1X9bJx--1o-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
