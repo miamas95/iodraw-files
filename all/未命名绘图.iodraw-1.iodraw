@@ -11,7 +11,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-5" target="iFZg3KW_5B1X9bJx--1o-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="270" />
+              <mxPoint x="42" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-5" value="血小板减少&#xa;与功能异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="150" width="140" height="66" as="geometry" />
@@ -35,7 +40,7 @@
           <mxGeometry x="453" y="327" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-9" value="出血倾向" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="344" width="124" height="49" as="geometry" />
+          <mxGeometry x="-20" y="335.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-10" value="血栓形成风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="373" y="491" width="140" height="49" as="geometry" />
