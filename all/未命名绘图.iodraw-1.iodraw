@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-4" value="肝硬化&#xa;脾功能亢进&#xa;肝合成功能受损" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-4" value="肝硬化&#xa;脾功能亢进&#xa;肝合成功能受损" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="55" y="45" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-5" target="iFZg3KW_5B1X9bJx--1o-11">
