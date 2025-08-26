@@ -39,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-7" value="血小板计数&#xa;报复性升高" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-7" value="血小板计数&#xa;报复性升高" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-8" value="门静脉系统&#xa;血流动力学改变" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-8" value="门静脉系统&#xa;血流动力学改变" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="490" y="150" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-9" value="出血倾向" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
