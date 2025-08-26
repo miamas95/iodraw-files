@@ -10,16 +10,6 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-5" target="iFZg3KW_5B1X9bJx--1o-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="141" y="218" as="sourcePoint" />
-            <mxPoint x="42" y="337.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="141" y="272" />
-              <mxPoint x="42" y="272" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-5" value="血小板减少&#xa;与功能异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="150" width="140" height="66" as="geometry" />
         </mxCell>
