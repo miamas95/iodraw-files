@@ -26,6 +26,9 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-6" target="iFZg3KW_5B1X9bJx--1o-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-6" target="iFZg3KW_5B1X9bJx--1o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-6" value="脾脏切除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="53.5" width="124" height="49" as="geometry" />
         </mxCell>
@@ -75,13 +78,6 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-4" target="iFZg3KW_5B1X9bJx--1o-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-17" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-6" target="iFZg3KW_5B1X9bJx--1o-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="539" y="136" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-8" target="iFZg3KW_5B1X9bJx--1o-10">
