@@ -109,7 +109,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-38" value="功能未恢复" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="60" y="327" width="80" height="30" as="geometry" />
+          <mxGeometry x="350" y="327" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-45" value="功能未恢复" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="337" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
