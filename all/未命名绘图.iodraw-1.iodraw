@@ -31,7 +31,7 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-9" value="出血倾向" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="491" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-10" value="高血栓风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-10" value="血栓形成风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="373" y="491" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-11" value="血小板功能动态变化&#xa;（数量 vs. 质量）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
