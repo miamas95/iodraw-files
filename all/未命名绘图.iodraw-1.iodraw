@@ -76,42 +76,21 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-11" value="血小板功能动态变化&#xa;（数量 vs. 质量）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="146" y="327" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-12" value="出血风险" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="72" y="589" width="79" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-13" value="血栓风险" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="404" y="589" width="79" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-14" value="临床结局" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="741" width="113" height="113" as="geometry" />
-        </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-4" target="iFZg3KW_5B1X9bJx--1o-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-25" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=cross;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-9" target="iFZg3KW_5B1X9bJx--1o-12">
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-25" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=cross;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="111.5" y="589" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-26" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=cross;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-10" target="iFZg3KW_5B1X9bJx--1o-13">
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-26" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=cross;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-27" value="平衡于" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-12" target="iFZg3KW_5B1X9bJx--1o-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="112" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-28" value="平衡于" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.99;entryY=0.26;rounded=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-13" target="iFZg3KW_5B1X9bJx--1o-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="443" y="705" />
-            </Array>
+            <mxPoint x="443.5" y="589" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-38" value="功能过度活化" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
