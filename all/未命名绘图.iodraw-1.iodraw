@@ -4,8 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-4" target="iFZg3KW_5B1X9bJx--1o-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="122" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-4" value="肝硬化&#xa;脾功能亢进&#xa;肝合成功能受损" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="146" y="89" width="172" height="66" as="geometry" />
@@ -23,14 +25,15 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-5" value="血小板减少&#xa;与功能异常" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="162" y="194" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-6" target="iFZg3KW_5B1X9bJx--1o-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iFZg3KW_5B1X9bJx--1o-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567" y="146.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-6" target="iFZg3KW_5B1X9bJx--1o-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-6" value="脾脏切除" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="505" y="97.5" width="124" height="49" as="geometry" />
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iFZg3KW_5B1X9bJx--1o-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567" y="146.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -90,8 +93,8 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.574;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-7" target="iFZg3KW_5B1X9bJx--1o-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-53" value="肝硬化&#xa;脾功能亢进&#xa;肝合成功能受损" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="156" y="99" width="172" height="66" as="geometry" />
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-53" value="脾切除" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="478" y="23" width="172" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
