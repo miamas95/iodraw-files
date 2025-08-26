@@ -48,8 +48,15 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-7" value="血小板计数&#xa;报复性升高" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-8" target="iFZg3KW_5B1X9bJx--1o-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="576" y="218" as="sourcePoint" />
+            <mxPoint x="512" y="337.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="576" y="272" />
+              <mxPoint x="512" y="272" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-8" value="门静脉系统&#xa;血流动力学改变" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="150" width="172" height="66" as="geometry" />
