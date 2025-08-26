@@ -84,8 +84,10 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-53" value="脾切除" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="471" y="89" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.465;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-53" target="iFZg3KW_5B1X9bJx--1o-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iFZg3KW_5B1X9bJx--1o-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iFZg3KW_5B1X9bJx--1o-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
