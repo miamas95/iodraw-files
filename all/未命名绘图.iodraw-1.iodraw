@@ -20,16 +20,6 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-5" value="血小板减少&#xa;与功能异常" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="162" y="194" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iFZg3KW_5B1X9bJx--1o-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="567" y="146.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iFZg3KW_5B1X9bJx--1o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iFZg3KW_5B1X9bJx--1o-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="567" y="146.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="471" y="262" as="sourcePoint" />
@@ -89,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFZg3KW_5B1X9bJx--1o-53" value="脾切除" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="521" y="23" width="172" height="66" as="geometry" />
+          <mxGeometry x="471" y="89" width="172" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
