@@ -229,6 +229,9 @@
         <mxCell id="5JaelIm58mVI45MGQdCu-8" value="采集不同时间点小鼠外周血" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100.25" y="2301" width="182" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="5JaelIm58mVI45MGQdCu-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="212" y="2211" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
