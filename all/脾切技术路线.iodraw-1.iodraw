@@ -218,13 +218,13 @@
           <mxGeometry x="344.25" y="2301" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-5" value="采集不同时间点小鼠外周血" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="2399" width="182" height="56" as="geometry" />
+          <mxGeometry x="-23" y="2400" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-6" value="检测血常规、肝功能、凝血功能等指标" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="212" y="2399" width="182" height="56" as="geometry" />
+          <mxGeometry x="212" y="2400" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-7" value="病理检测&#xa;“产板-促凝”（肝）、“清除-活化”（脾）通路解析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="434.25" y="2399" width="182" height="56" as="geometry" />
+          <mxGeometry x="434.25" y="2400" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-8" value="采集不同时间点小鼠外周血" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100.25" y="2301" width="182" height="56" as="geometry" />
@@ -239,7 +239,14 @@
           <mxGeometry x="191" y="2251" width="245" height="17" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JaelIm58mVI45MGQdCu-16" target="5JaelIm58mVI45MGQdCu-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="313" y="2382" />
+              <mxPoint x="170" y="2382" />
+              <mxPoint x="170" y="2380" />
+              <mxPoint x="68" y="2380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-16" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="190.25" y="2357" width="245" height="17" as="geometry" />
