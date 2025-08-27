@@ -117,7 +117,7 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-19" value="分子表达水平 vs.&#xa;血小板功能动态变化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="44" y="1425" width="213" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-20" value="组织分子表达水平 vs.&#xa;临床结局" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-20" value="分子表达水平 vs.&#xa;临床结局" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="342" y="1425" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-21" value="筛选出关键预测性生物标志物" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
