@@ -198,8 +198,11 @@
         <mxCell id="5JaelIm58mVI45MGQdCu-3" value="建立肝硬化模型" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="233.25" y="2112" width="182" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="5JaelIm58mVI45MGQdCu-4" value="术前：血小板计数&#xa;血小板" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="5JaelIm58mVI45MGQdCu-4" value="采集不同时间点小鼠外周血" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-22.75" y="2294" width="182" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5JaelIm58mVI45MGQdCu-5" value="采集不同时间点小鼠外周血" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-12.75" y="2304" width="182" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
