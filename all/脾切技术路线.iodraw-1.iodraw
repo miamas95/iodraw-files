@@ -221,7 +221,7 @@
           <mxGeometry x="-23" y="2400" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-6" value="检测血常规、肝功能、凝血功能等指标" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="212" y="2400" width="182" height="56" as="geometry" />
+          <mxGeometry x="221.75" y="2400" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-7" value="病理检测&#xa;“产板-促凝”（肝）、“清除-活化”（脾）通路解析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="434.25" y="2400" width="182" height="56" as="geometry" />
