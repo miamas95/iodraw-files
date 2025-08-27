@@ -218,13 +218,13 @@
           <mxGeometry x="344.25" y="2301" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-5" value="采集不同时间点小鼠外周血" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="2393" width="182" height="56" as="geometry" />
+          <mxGeometry x="-23" y="2399" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-6" value="检测血常规、肝功能、凝血功能等指标" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="212" y="2393" width="182" height="56" as="geometry" />
+          <mxGeometry x="212" y="2399" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-7" value="病理检测&#xa;“产板-促凝”（肝）、“清除-活化”（脾）通路解析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="434.25" y="2393" width="182" height="56" as="geometry" />
+          <mxGeometry x="434.25" y="2399" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-8" value="采集不同时间点小鼠外周血" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100.25" y="2301" width="182" height="56" as="geometry" />
