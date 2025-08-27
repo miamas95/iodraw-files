@@ -189,8 +189,8 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="294.25" y="1162.5" width="29.75" height="414.75" as="geometry" />
         </mxCell>
-        <mxCell id="5JaelIm58mVI45MGQdCu-1" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="152" y="1909" width="252" height="84" as="geometry" />
+        <mxCell id="5JaelIm58mVI45MGQdCu-1" value="肝硬化（未脾切）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="13" y="2093" width="252" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
