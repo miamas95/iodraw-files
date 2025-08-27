@@ -93,16 +93,16 @@
         <mxCell id="Lx7Ud2byuqHO1ZKNTNP8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.292;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="1" source="Lx7Ud2byuqHO1ZKNTNP8-10" target="Lx7Ud2byuqHO1ZKNTNP8-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-6" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-6" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-111" y="1668" width="758" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-7" value="构建共培养体系&#xa;组织匀浆上清 + 健康人血小板" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="FrEy5FZVpKa6H1ve-ymy-6" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-7" value="构建共培养体系&#xa;组织匀浆上清 + 健康人血小板" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="FrEy5FZVpKa6H1ve-ymy-6" vertex="1">
           <mxGeometry x="43" y="46" width="172" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-8" value="功能表型检测&#xa;流式细胞术检测活化&#xa;比浊法检测聚集功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="FrEy5FZVpKa6H1ve-ymy-6" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-8" value="功能表型检测&#xa;流式细胞术检测活化&#xa;比浊法检测聚集功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="FrEy5FZVpKa6H1ve-ymy-6" vertex="1">
           <mxGeometry x="265" y="46" width="204" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-9" value="通路阻断实验&#xa;使用中和抗体/拮抗剂" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="FrEy5FZVpKa6H1ve-ymy-6" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-9" value="通路阻断实验&#xa;使用中和抗体/拮抗剂" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="FrEy5FZVpKa6H1ve-ymy-6" vertex="1">
           <mxGeometry x="519" y="54" width="212" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="FrEy5FZVpKa6H1ve-ymy-16" target="FrEy5FZVpKa6H1ve-ymy-34" edge="1">
@@ -114,24 +114,24 @@
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-16" value="建立肝硬化脾切除患者队列" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="142" y="1063" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-19" value="组织分子表达水平 vs.&#xa;血小板功能动态变化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-19" value="分子表达水平 vs.&#xa;血小板功能动态变化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="44" y="1425" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FrEy5FZVpKa6H1ve-ymy-20" value="组织分子表达水平 vs.&#xa;临床结局" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="342" y="1425" width="213" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-21" value="筛选出关键预测性生物标志物" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-21" value="筛选出关键预测性生物标志物" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="142" y="1534" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-22" value="最终结论: 阐明“肝-脾轴”机制&#xa;发现预测标志物与新药靶点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="142" y="1899" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;" parent="1" source="FrEy5FZVpKa6H1ve-ymy-21" target="FrEy5FZVpKa6H1ve-ymy-6" edge="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="FrEy5FZVpKa6H1ve-ymy-21" target="FrEy5FZVpKa6H1ve-ymy-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrEy5FZVpKa6H1ve-ymy-32" value="验证结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;" parent="1" source="FrEy5FZVpKa6H1ve-ymy-6" target="FrEy5FZVpKa6H1ve-ymy-22" edge="1">
+        <mxCell id="FrEy5FZVpKa6H1ve-ymy-32" value="验证结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="FrEy5FZVpKa6H1ve-ymy-6" target="FrEy5FZVpKa6H1ve-ymy-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
