@@ -208,7 +208,7 @@
           <mxGeometry x="212" y="2393" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="5JaelIm58mVI45MGQdCu-7" value="检测血常规、肝功能、凝血功能等指标" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="222" y="2403" width="182" height="56" as="geometry" />
+          <mxGeometry x="434.25" y="2393" width="182" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
