@@ -76,29 +76,12 @@
             <mxPoint x="714.5" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1076" y="529" />
-            </Array>
-            <mxPoint x="790" y="490.3000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="715" y="749" />
             </Array>
             <mxPoint x="714.5" y="505" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1369" y="529" />
-              <mxPoint x="1369" y="749" />
-            </Array>
-            <mxPoint x="790" y="485.8900000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-1">
@@ -108,13 +91,6 @@
               <mxPoint x="20" y="945" />
             </Array>
             <mxPoint x="639" y="485.4000000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-32" value="巨AST确诊患者" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-13" target="vXl7m9ZzAwRufFn46cIZ-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1076" y="749" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-33" value="巨AST确诊患者" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.53;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-13" target="vXl7m9ZzAwRufFn46cIZ-5">
