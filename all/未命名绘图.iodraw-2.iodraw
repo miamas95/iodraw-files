@@ -154,7 +154,7 @@
           <mxGeometry x="1390" y="54" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-50" value="全外显子组测序、&#xa;靶向panel分析、&#xa;Sanger验证、&#xa;生信分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="80" width="184" height="101.5" as="geometry" />
+          <mxGeometry x="1150" y="293.75" width="184" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-54" value="发现候选突变" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1400" y="320" width="188" height="49" as="geometry" />
