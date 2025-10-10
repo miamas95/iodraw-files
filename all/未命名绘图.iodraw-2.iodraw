@@ -177,6 +177,9 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-51" value="靶向panel分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1380" y="188.5" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-52" value="Sanger验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="188.5" width="188" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
