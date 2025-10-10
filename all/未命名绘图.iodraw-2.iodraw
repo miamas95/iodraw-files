@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="O1k93ZPiPVwMspFUp-3f">
-    <mxGraphModel dx="845" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2323" dy="1590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1445" y="236" as="targetPoint" />
             <mxPoint x="1231" y="197" as="sourcePoint" />
@@ -147,42 +147,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-35" target="vXl7m9ZzAwRufFn46cIZ-47">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-35" target="vXl7m9ZzAwRufFn46cIZ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1137" y="148" width="188" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-47" target="vXl7m9ZzAwRufFn46cIZ-49">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-47" target="vXl7m9ZzAwRufFn46cIZ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-47" value="酶-免疫球蛋白复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-47" value="酶-免疫球蛋白复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1090" y="238" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-56">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1445.7543859649122" y="236.12280701754383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-56" value="巨AST血症患者一级亲属、健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-56" value="巨AST血症患者一级亲属、健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1425" y="148" width="188" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-57" target="vXl7m9ZzAwRufFn46cIZ-59">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-57" target="vXl7m9ZzAwRufFn46cIZ-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-57" value="全外显子组测序、&#xa;靶向panel分析、&#xa;Sanger验证、&#xa;生信分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-57" value="全外显子组测序、&#xa;靶向panel分析、&#xa;Sanger验证、&#xa;生信分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1355" y="238" width="188" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-59" target="vXl7m9ZzAwRufFn46cIZ-60">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-59" target="vXl7m9ZzAwRufFn46cIZ-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-59" value="发现候选突变" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-59" value="发现候选突变" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1355" y="368" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-60" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-60" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1355" y="448" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-49" value="结构鉴定与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-49" value="结构鉴定与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1090" y="329" width="188" height="49" as="geometry" />
         </mxCell>
       </root>
