@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-1" value="3.3.5 体外功能验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="516" y="982" width="718" height="124" as="geometry" />
+          <mxGeometry x="750" y="760" width="718" height="124" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-2" value="载体构建与蛋白表达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-1">
           <mxGeometry x="43" y="46" width="204" height="49" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="503" y="46" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-5" value="3.3.4 遗传学分析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="786" width="867" height="124" as="geometry" />
+          <mxGeometry x="750" y="585" width="867" height="124" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-6" value="全外显子组测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-5">
           <mxGeometry x="43" y="46" width="172" height="49" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="668" y="46" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-10" value="3.3.3 分子机制研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="621" y="786" width="480" height="124" as="geometry" />
+          <mxGeometry x="754" y="420" width="480" height="124" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-11" value="复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-10">
           <mxGeometry x="43" y="46" width="188" height="49" as="geometry" />
