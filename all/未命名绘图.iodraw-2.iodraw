@@ -50,7 +50,7 @@
           <mxGeometry x="243" y="46" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-16" value="3.3.1 临床数据收集" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="55" y="572" width="625" height="124" as="geometry" />
+          <mxGeometry x="750" y="50" width="625" height="124" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-17" value="基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-16">
           <mxGeometry x="43" y="46" width="124" height="49" as="geometry" />
@@ -74,14 +74,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="714.5" y="456" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="367" y="529" />
-            </Array>
-            <mxPoint x="639" y="490.7900000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-13">
