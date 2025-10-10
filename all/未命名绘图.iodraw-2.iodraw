@@ -147,6 +147,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1184" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1137" y="148" width="188" height="50" as="geometry" />
         </mxCell>
@@ -181,9 +186,6 @@
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-49" value="结构鉴定与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1101" y="328" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-35" target="vXl7m9ZzAwRufFn46cIZ-47">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
