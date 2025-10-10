@@ -171,15 +171,6 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-49" value="结构鉴定与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1101" y="328" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1234" y="198" as="sourcePoint" />
-            <mxPoint x="1444.8560000000002" y="241.29999999999995" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1445" y="199" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
