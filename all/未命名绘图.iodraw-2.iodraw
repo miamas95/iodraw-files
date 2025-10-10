@@ -149,7 +149,7 @@
           <mxGeometry x="1410" y="273" width="188" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-59" value="发现候选突变" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="373" width="188" height="49" as="geometry" />
+          <mxGeometry x="1410" y="399" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-60" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1504" y="422" width="188" height="49" as="geometry" />
