@@ -62,7 +62,7 @@
           <mxGeometry x="433" y="46" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-20" value="研究类型与对象" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="566" y="154" width="297" height="252" as="geometry" />
+          <mxGeometry x="400" y="154" width="297" height="252" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-21" value="病例对照研究&#xa;巨AST组 vs 正常对照组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-20">
           <mxGeometry x="46" y="43" width="222" height="66" as="geometry" />
@@ -70,49 +70,52 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-22" value="横断面研究&#xa;巨AST病例队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-20">
           <mxGeometry x="73" y="159" width="166" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-24" value="3.3 研究方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="639" y="456" width="151" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-20" target="vXl7m9ZzAwRufFn46cIZ-24">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="714.5" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-24" target="vXl7m9ZzAwRufFn46cIZ-16">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="367" y="529" />
             </Array>
+            <mxPoint x="639" y="490.7900000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-24" target="vXl7m9ZzAwRufFn46cIZ-13">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1076" y="529" />
             </Array>
+            <mxPoint x="790" y="490.3000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-24" target="vXl7m9ZzAwRufFn46cIZ-10">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="715" y="749" />
             </Array>
+            <mxPoint x="714.5" y="505" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-24" target="vXl7m9ZzAwRufFn46cIZ-5">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1369" y="529" />
               <mxPoint x="1369" y="749" />
             </Array>
+            <mxPoint x="790" y="485.8900000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-24" target="vXl7m9ZzAwRufFn46cIZ-1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="529" />
               <mxPoint x="20" y="945" />
             </Array>
+            <mxPoint x="639" y="485.4000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-32" value="巨AST确诊患者" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-13" target="vXl7m9ZzAwRufFn46cIZ-10">
