@@ -151,7 +151,7 @@
           <mxGeometry x="910" y="180" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-41" value="3.3.4 遗传学分析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="180" width="867" height="124" as="geometry" />
+          <mxGeometry x="1280" y="160" width="867" height="124" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-42" value="全外显子组测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-41">
           <mxGeometry x="43" y="46" width="172" height="49" as="geometry" />
