@@ -168,6 +168,9 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-49" value="结构鉴定与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1172" y="350" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-59" target="vXl7m9ZzAwRufFn46cIZ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
