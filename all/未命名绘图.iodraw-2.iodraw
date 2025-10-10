@@ -153,7 +153,10 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-38" value="分子机制研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1200" y="20" width="480" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-39" value="复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-38">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vXl7m9ZzAwRufFn46cIZ-38" source="vXl7m9ZzAwRufFn46cIZ-39" target="vXl7m9ZzAwRufFn46cIZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-39" value="酶-免疫球蛋白复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-38">
           <mxGeometry x="43" y="46" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-40" value="结构鉴定与分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-38">
