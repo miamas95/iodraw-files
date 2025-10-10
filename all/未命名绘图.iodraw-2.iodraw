@@ -136,10 +136,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="230" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-35" target="vXl7m9ZzAwRufFn46cIZ-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1172" y="170" width="188" height="50" as="geometry" />
