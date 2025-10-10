@@ -144,7 +144,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="病例对照研究&#xa;巨AST组 vs 正常对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="910" y="80" width="222" height="66" as="geometry" />
         </mxCell>
       </root>
