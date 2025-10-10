@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="O1k93ZPiPVwMspFUp-3f">
-    <mxGraphModel dx="1548" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-37" value="健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="910" y="180" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-38" value="3.3.3 分子机制研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-38" value="分子机制研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1200" y="20" width="480" height="124" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-39" value="复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-38">
