@@ -153,6 +153,11 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-47" value="酶-免疫球蛋白复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1172" y="260" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-56" value="健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1500" y="170" width="188" height="50" as="geometry" />
         </mxCell>
