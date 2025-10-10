@@ -164,7 +164,7 @@
             <mxPoint x="1445.7543859649122" y="236.12280701754383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-56" value="健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-56" value="巨AST血症患者一级亲属、健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1425" y="148" width="188" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-57" target="vXl7m9ZzAwRufFn46cIZ-59">
