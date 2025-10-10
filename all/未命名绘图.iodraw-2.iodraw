@@ -147,7 +147,7 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="910" y="80" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-37" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-37" value="健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="910" y="180" width="222" height="66" as="geometry" />
         </mxCell>
       </root>
