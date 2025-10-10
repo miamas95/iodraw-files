@@ -41,7 +41,7 @@
           <mxGeometry x="281" y="46" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-13" value="3.3.2 实验室检测" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="819" y="554" width="515" height="159" as="geometry" />
+          <mxGeometry x="750" y="220" width="515" height="159" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-14" value="常规AST检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-13">
           <mxGeometry x="43" y="63" width="150" height="49" as="geometry" />
