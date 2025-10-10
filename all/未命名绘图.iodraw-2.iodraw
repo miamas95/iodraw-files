@@ -150,6 +150,21 @@
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-37" value="健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="910" y="180" width="222" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-41" value="3.3.4 遗传学分析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="300" width="867" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-42" value="全外显子组测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-41">
+          <mxGeometry x="43" y="46" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-43" value="靶向Panel分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-41">
+          <mxGeometry x="265" y="46" width="163" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-44" value="Sanger验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-41">
+          <mxGeometry x="478" y="46" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vXl7m9ZzAwRufFn46cIZ-45" value="生物信息学分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vXl7m9ZzAwRufFn46cIZ-41">
+          <mxGeometry x="668" y="46" width="172" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-47" value="酶-免疫球蛋白复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1160" y="50" width="188" height="49" as="geometry" />
         </mxCell>
