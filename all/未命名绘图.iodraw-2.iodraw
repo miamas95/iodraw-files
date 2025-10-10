@@ -172,13 +172,7 @@
           <mxGeometry x="1390" y="50" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-50" value="全外显子组测序&#xa;靶向panel分析、&#xa;Sanger验证&#xa;生信分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="188.5" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-52" value="Sanger验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="188.5" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-53" value="生信分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="188.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="1160" y="188.5" width="200" height="101.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
