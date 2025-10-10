@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="O1k93ZPiPVwMspFUp-3f">
-    <mxGraphModel dx="1161" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,12 +72,6 @@
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-24" value="3.3 研究方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="639" y="456" width="151" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vXl7m9ZzAwRufFn46cIZ-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="vXl7m9ZzAwRufFn46cIZ-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="715.0000000000002" y="104" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-20" target="vXl7m9ZzAwRufFn46cIZ-24">
           <mxGeometry relative="1" as="geometry">
