@@ -148,25 +148,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-35" value="巨AST血症组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="320" width="188" height="50" as="geometry" />
+          <mxGeometry x="1271" y="170" width="188" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-47" target="vXl7m9ZzAwRufFn46cIZ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-47" value="酶-免疫球蛋白复合物分离与纯化" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="406" width="188" height="49" as="geometry" />
+          <mxGeometry x="1170" y="256" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-56" value="健康对照组" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1334" y="320" width="188" height="50" as="geometry" />
+          <mxGeometry x="1504" y="170" width="188" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-57" value="全外显子组测序、&#xa;靶向panel分析、&#xa;S按个人验证、&#xa;生信分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="400" width="188" height="100" as="geometry" />
+          <mxGeometry x="1480" y="250" width="188" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-59" value="发现候选突变" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="523" width="188" height="49" as="geometry" />
+          <mxGeometry x="1490" y="373" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-60" value="体外功能验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="170" width="188" height="49" as="geometry" />
+          <mxGeometry x="1504" y="422" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vXl7m9ZzAwRufFn46cIZ-35" target="vXl7m9ZzAwRufFn46cIZ-57">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vXl7m9ZzAwRufFn46cIZ-49" value="结构鉴定与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="500" width="188" height="49" as="geometry" />
+          <mxGeometry x="1189" y="350" width="188" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
