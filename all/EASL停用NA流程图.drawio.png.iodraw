@@ -1,0 +1,150 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="978" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;HBeAg阳性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="92" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-13" value="&lt;span style=&quot;background-color: initial;&quot;&gt;HBeAg阴性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;HBeAg/抗HBe血清学转换&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HBV DNA&amp;lt;LOD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;无进展期肝脏疾病&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;低HBsAg水平&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#040101;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="92" y="420" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-17" value="&lt;span style=&quot;background-color: initial;&quot;&gt;HBV DNA＜LOD维持≥3年&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;无进展期肝脏疾病&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;低HBsAg水平&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#040101;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="420" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-20" target="9W24ZKHJ8t-S8M4Y-23o-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-20" value="是" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="122" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="560" as="sourcePoint" />
+            <mxPoint x="639" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-21" value="是" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9W24ZKHJ8t-S8M4Y-23o-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="166.5" y="500" as="sourcePoint" />
+            <mxPoint x="166.5" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-27" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.5" y="500" as="sourcePoint" />
+            <mxPoint x="640" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-28" target="9W24ZKHJ8t-S8M4Y-23o-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-28" value="NAs巩固治疗12月后停药" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="92" y="580" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="620" as="sourcePoint" />
+            <mxPoint x="640" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-29" value="停用NAs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="580" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-32" value="密切监测ALT，HBV DNA；（和HBsAg）&lt;sup&gt;5&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="92" y="640" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-33" value="密切监测ALT，HBV DNA&lt;sup&gt;5&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="640" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;若符合以下条件，需重新开始治疗：当HBV DNA＞10,000IU/ml时应考虑在治疗；若达到≥100,000IU/ml则无论ALT水平如何都必须立即治疗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="700" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-35" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-37" value="&lt;span style=&quot;background-color: initial;&quot;&gt;HBsAg（+）正接受NA治疗&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;无相关并发症&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;非免疫功能低下者&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#040101;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="90" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-39" target="9W24ZKHJ8t-S8M4Y-23o-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-39" value="是" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="499" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-40" value="考虑停用NA，需咨询专家意见" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="170" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-42" target="9W24ZKHJ8t-S8M4Y-23o-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-42" target="9W24ZKHJ8t-S8M4Y-23o-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-42" value="确认HBsAg丢失&lt;sup&gt;2&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-40" target="9W24ZKHJ8t-S8M4Y-23o-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="220" as="sourcePoint" />
+            <mxPoint x="429" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-44" value="停用NA&lt;sup&gt;3&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="609" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-45" target="9W24ZKHJ8t-S8M4Y-23o-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="399" y="340" />
+              <mxPoint x="167" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-45" target="9W24ZKHJ8t-S8M4Y-23o-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="399" y="340" />
+              <mxPoint x="635" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-45" value="否" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#040101;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359" y="289" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-49" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="167" y="420" as="sourcePoint" />
+            <mxPoint x="166.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-17" target="9W24ZKHJ8t-S8M4Y-23o-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="634.5" y="440" as="sourcePoint" />
+            <mxPoint x="634.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.125;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-32" target="9W24ZKHJ8t-S8M4Y-23o-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W24ZKHJ8t-S8M4Y-23o-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.871;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#040101;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9W24ZKHJ8t-S8M4Y-23o-33" target="9W24ZKHJ8t-S8M4Y-23o-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
