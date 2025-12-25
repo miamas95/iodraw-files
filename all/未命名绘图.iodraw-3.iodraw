@@ -70,7 +70,7 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-7" value="HBsAg-Next positive&lt;div&gt;:20 samples&lt;/div&gt;&lt;div&gt;(10 patients)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="271" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-8" value="HBsAg-Next negative&lt;div&gt;(n=141)&lt;/div&gt;&lt;div&gt;87 patients&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-8" value="HBsAg-Next negative&lt;div&gt;:141 samples&lt;/div&gt;&lt;div&gt;(87 patients)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539.5" y="271" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
