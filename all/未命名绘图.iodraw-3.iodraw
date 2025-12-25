@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kP94_6nVC50krbv3uI6-">
-    <mxGraphModel dx="507" dy="341" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-4" value="HBsAg negative:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;161 samples&lt;/span&gt;&lt;div&gt;(98 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-5" value="HBsAg-Next positive:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9 samples&lt;/span&gt;&lt;div&gt;(9 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-5" value="HBsAg-Next positive&lt;div&gt;:&lt;span style=&quot;background-color: initial;&quot;&gt;9 samples&lt;/span&gt;&lt;div&gt;&lt;div&gt;(9 patients)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-6" value="HBsAg-Next negative&lt;div&gt;:3 samples&lt;br&gt;&lt;div&gt;&lt;div&gt;(3 patients)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
