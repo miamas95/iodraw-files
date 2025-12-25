@@ -7,7 +7,7 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-1" value="total n=172" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="113" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-3" value="HBsag pasitive&lt;div&gt;(n=11)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-3" value="HBsag positive&lt;div&gt;(n=11)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="223" y="209" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-4" value="HBsag negative&lt;div&gt;(n=161)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
           <mxGeometry x="392" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-8" value="HBsag pasitive&lt;div&gt;(n=11)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="263" y="249" width="120" height="60" as="geometry" />
+          <mxGeometry x="546" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
