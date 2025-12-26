@@ -101,7 +101,7 @@
           <mxGeometry x="531.25" y="357" width="136.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-36" value="6 patients&#39; sAg re-positive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="425" width="417.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
