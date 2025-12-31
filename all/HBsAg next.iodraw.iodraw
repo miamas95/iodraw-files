@@ -23,24 +23,6 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-1" value="HBsAg &amp;lt;0.05 IU/ml&lt;div&gt;n=104&lt;/div&gt;&lt;div&gt;(samples=186)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="95" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="158.5" y="271" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="281" y="255" />
-              <mxPoint x="159" y="255" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305.5" y="271" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="281" y="255" />
-              <mxPoint x="305" y="255" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-3" value="HBsAg Next positive:&lt;div&gt;14 samples&lt;div&gt;(13 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="182" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,9 +46,6 @@
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-4" value="HBsAg Next negative:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;181 samples&lt;/span&gt;&lt;div&gt;(105 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="182" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-25" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;7,0&quot;&gt;Note:&lt;/b&gt; The total study population consists of 112 unique patients with 195 longitudinal samples. Numbers of patients in sub-groups may overlap because individual patients could yield different diagnostic results across multiple follow-up time points. For instance, a patient might be categorized as &quot;HBsAg negative&quot; at one visit but contribute to the &quot;HBsAg positive&quot; group if a reactivation occurred at a later visit." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="87.75" y="521" width="582.5" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
