@@ -26,24 +26,6 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-3" value="HBsAg Next positive:&lt;div&gt;14 samples&lt;div&gt;(13 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="452.5" y="271" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="474" y="254" />
-              <mxPoint x="453" y="254" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="599.5" y="271" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="474" y="254" />
-              <mxPoint x="600" y="254" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-4" value="HBsAg Next negative:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;181 samples&lt;/span&gt;&lt;div&gt;(105 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="182" width="120" height="60" as="geometry" />
         </mxCell>
