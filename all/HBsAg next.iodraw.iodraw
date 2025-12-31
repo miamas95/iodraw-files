@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-1" value="HBsAg &amp;lt;0.05 IU/ml&lt;div&gt;n=103&lt;/div&gt;&lt;div&gt;(samples=186)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-1" value="HBsAg &amp;lt;0.05 IU/ml&lt;div&gt;n=104&lt;/div&gt;&lt;div&gt;(samples=186)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-3" target="xclhYbIk30ZTSkgp6g-b-5">
