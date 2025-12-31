@@ -23,16 +23,18 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-1" value="HBsAg &amp;lt;0.05 IU/ml&lt;div&gt;n=104&lt;/div&gt;&lt;div&gt;(samples=186)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="95" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-3" target="xclhYbIk30ZTSkgp6g-b-5">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-3">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158.5" y="271" as="targetPoint" />
             <Array as="points">
               <mxPoint x="281" y="255" />
               <mxPoint x="159" y="255" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-3" target="xclhYbIk30ZTSkgp6g-b-6">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-3">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305.5" y="271" as="targetPoint" />
             <Array as="points">
               <mxPoint x="281" y="255" />
               <mxPoint x="305" y="255" />
@@ -42,16 +44,18 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-3" value="HBsAg Next positive:&lt;div&gt;14 samples&lt;div&gt;(13 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-4" target="xclhYbIk30ZTSkgp6g-b-7">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="452.5" y="271" as="targetPoint" />
             <Array as="points">
               <mxPoint x="474" y="254" />
               <mxPoint x="453" y="254" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-4" target="xclhYbIk30ZTSkgp6g-b-8">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.5" y="271" as="targetPoint" />
             <Array as="points">
               <mxPoint x="474" y="254" />
               <mxPoint x="600" y="254" />
@@ -61,50 +65,8 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-4" value="HBsAg Next negative:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;181 samples&lt;/span&gt;&lt;div&gt;(105 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-5" target="xclhYbIk30ZTSkgp6g-b-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-5" value="HBsAg-Next positive&lt;div&gt;:11&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;samples&lt;/span&gt;&lt;div&gt;&lt;div&gt;(11 patients)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98.5" y="271" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-6" target="xclhYbIk30ZTSkgp6g-b-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-6" value="HBsAg-Next negative&lt;div&gt;:3 samples&lt;br&gt;&lt;div&gt;&lt;div&gt;(3 patients)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245.5" y="271" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-7" target="xclhYbIk30ZTSkgp6g-b-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-7" value="HBsAg-Next positive&lt;div&gt;:24 samples&lt;/div&gt;&lt;div&gt;(21 patients)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="271" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-8" target="xclhYbIk30ZTSkgp6g-b-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-8" value="HBsAg-Next negative&lt;div&gt;:157 samples&lt;/div&gt;&lt;div&gt;(91 patients)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539.5" y="271" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-25" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;7,0&quot;&gt;Note:&lt;/b&gt; The total study population consists of 112 unique patients with 195 longitudinal samples. Numbers of patients in sub-groups may overlap because individual patients could yield different diagnostic results across multiple follow-up time points. For instance, a patient might be categorized as &quot;HBsAg negative&quot; at one visit but contribute to the &quot;HBsAg positive&quot; group if a reactivation occurred at a later visit." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="87.75" y="521" width="582.5" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-26" value="&lt;span style=&quot;background-color: initial;&quot;&gt;anti-HBs(-)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;11 samples&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98.5" y="359" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-27" value="&lt;span style=&quot;background-color: initial;&quot;&gt;anti-HBs(-)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 samples&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;anti-HBs(+)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1samples&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;unknown:&lt;span style=&quot;background-color: initial;&quot;&gt;1 samples&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245.5" y="359" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-29" target="xclhYbIk30ZTSkgp6g-b-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-29" value="&lt;span style=&quot;background-color: initial;&quot;&gt;anti-HBs(-)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;16 samples&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;anti-HBs(+)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8 samples&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="359" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-30" value="&lt;span style=&quot;background-color: initial;&quot;&gt;anti-HBs(-)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:32&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;samples&lt;/span&gt;&lt;div&gt;(26 patients)&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;anti-HBs(+)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;125 samples&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(69 patients)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531.25" y="359" width="136.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-36" value="HBsAg seroreversion:&lt;div&gt;7 samples&lt;/div&gt;&lt;div&gt;(7 patients)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="449" width="120.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
