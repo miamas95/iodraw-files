@@ -62,6 +62,229 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-59" value="HBsAg Next negative&lt;div&gt;(n=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-60" value="Group D: 36w 入组 n=2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="937" width="263" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-61" value="Group C: 24w 入组 n=6" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="303" y="937" width="495" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-62" value="Group B: 12w 入组 n=9" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="818" y="937" width="520" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-63" value="Group A: 0w 入组 n=20" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1358" y="937" width="1675" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-64" value="&lt;b&gt;前瞻性随访队列 N=37&lt;/b&gt;&#xa;入组标准: HBsAg &amp;lt; 0.05 IU/mL" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="712" y="786" width="217" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-65" value="n=20" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2163" y="962" width="64" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-66" value="n=9" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1069" y="962" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-67" value="n=6" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="511" y="962" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-68" value="n=2" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="124" y="962" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-69" value="HBsAg Next +&#xa;n=4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="1061" width="155" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-70" value="HBsAg Next -&#xa;n=16" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2494" y="1061" width="152" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-71" value="12w: 持续预警&#xa;Std- / Next+" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1393" y="1195" width="163" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-72" value="24w: 双阴波动&#xa;48w: Std- / Next+" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1606" y="1195" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-73" value="36w: 临床复阳&#xa;Std+ / Next+" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1844" y="1195" width="163" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-74" value="12w: 双阴 n=10&#xa;其中5人随访至24w&#xa;最终1人至36w,1人至48w均为双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2058" y="1177" width="250" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-75" value="24w: 双阴 n=1&#xa;随访至48w仍双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2358" y="1195" width="185" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-76" value="24w: 迟发预警 n=1&#xa;Std- / Next+" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2593" y="1195" width="194" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-77" value="60w: 双阴 n=1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2837" y="1203" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-78" value="初始均为双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="1070" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-79" value="24w: 双阴 n=5&#xa;后续1人至36w,1人至48w,&#xa;1人至72w均双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="853" y="1186" width="239" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-80" value="36w: 双阴 n=2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="1203" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-81" value="HBsAg Next -&#xa;n=4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1061" width="152" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-82" value="HBsAg Next +&#xa;n=2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1061" width="155" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-83" value="36w: 特殊复阳&#xa;Std+ / Next-" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1195" width="163" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-84" value="随访24w后: 临床复阳&#xa;Std &amp;gt; 0.05" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="551" y="1195" width="211" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-85" value="初始均为双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="74" y="1070" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-86" value="48w: 双阴 n=2&#xa;1人持续至60w双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1195" width="193" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-64" target="xclhYbIk30ZTSkgp6g-b-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2195" y="912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-64" target="xclhYbIk30ZTSkgp6g-b-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1097" y="912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-64" target="xclhYbIk30ZTSkgp6g-b-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="538" y="912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-64" target="xclhYbIk30ZTSkgp6g-b-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="152" y="912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-65" target="xclhYbIk30ZTSkgp6g-b-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1700" y="1036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-65" target="xclhYbIk30ZTSkgp6g-b-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2570" y="1036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-69" target="xclhYbIk30ZTSkgp6g-b-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1475" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-69" target="xclhYbIk30ZTSkgp6g-b-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-69" target="xclhYbIk30ZTSkgp6g-b-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1926" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-70" target="xclhYbIk30ZTSkgp6g-b-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2183" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-70" target="xclhYbIk30ZTSkgp6g-b-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2450" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-70" target="xclhYbIk30ZTSkgp6g-b-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2690" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-70" target="xclhYbIk30ZTSkgp6g-b-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2917" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-66" target="xclhYbIk30ZTSkgp6g-b-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-78" target="xclhYbIk30ZTSkgp6g-b-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="972" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-78" target="xclhYbIk30ZTSkgp6g-b-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1222" y="1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-67" target="xclhYbIk30ZTSkgp6g-b-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-67" target="xclhYbIk30ZTSkgp6g-b-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="657" y="1036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-81" target="xclhYbIk30ZTSkgp6g-b-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-82" target="xclhYbIk30ZTSkgp6g-b-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-68" target="xclhYbIk30ZTSkgp6g-b-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-85" target="xclhYbIk30ZTSkgp6g-b-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
