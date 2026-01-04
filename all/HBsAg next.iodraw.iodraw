@@ -71,7 +71,7 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-62" value="Group B: 12w 入组 n=9" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="818" y="937" width="520" height="366" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-63" value="Group A: 0w 入组 n=20" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-63" value="Group A: 0w 入组 n=20" style="whiteSpace=wrap;strokeWidth=2;align=left;" vertex="1" parent="1">
           <mxGeometry x="1358" y="937" width="1675" height="366" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-64" value="&lt;b&gt;前瞻性随访队列 N=37&lt;/b&gt;&#xa;入组标准: HBsAg &amp;lt; 0.05 IU/mL" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
