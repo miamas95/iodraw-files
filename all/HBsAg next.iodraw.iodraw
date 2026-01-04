@@ -138,7 +138,7 @@
           <mxGeometry x="551" y="1195" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-85" value="初始均为双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="74" y="1070" width="156" height="49" as="geometry" />
+          <mxGeometry x="74" y="1055" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xclhYbIk30ZTSkgp6g-b-86" value="48w: 双阴 n=2&#xa;1人持续至60w双阴" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="1195" width="193" height="66" as="geometry" />
