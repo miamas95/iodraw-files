@@ -29,30 +29,26 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-4" value="HBsAg Next negative:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;181 samples&lt;/span&gt;&lt;div&gt;(105 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-48" target="xclhYbIk30ZTSkgp6g-b-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="389" y="177" />
-              <mxPoint x="484" y="177" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-48" value="HBsAg &amp;lt;0.05 IU/ml&lt;div&gt;n=37&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="277" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xclhYbIk30ZTSkgp6g-b-48" target="xclhYbIk30ZTSkgp6g-b-49">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="389" y="177" />
-              <mxPoint x="291" y="177" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-49" value="group A&lt;div&gt;(at end of treatment,EOT)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="367" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-48" value="HBsAg &amp;lt;0.05 IU/ml&lt;div&gt;n=104&lt;/div&gt;&lt;div&gt;(samples=186)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="105" width="120" height="60" as="geometry" />
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-51" value="group B&lt;div&gt;(12 weeks post-EOT)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="367" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-49" value="HBsAg Next positive:&lt;div&gt;14 samples&lt;div&gt;(13 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="192" width="120" height="60" as="geometry" />
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-52" value="group C&lt;div&gt;(24 weeks&amp;nbsp;post-EOT)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="367" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xclhYbIk30ZTSkgp6g-b-50" value="HBsAg Next negative:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;181 samples&lt;/span&gt;&lt;div&gt;(105 patients)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="192" width="120" height="60" as="geometry" />
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-53" value="group D&lt;div&gt;(36 weeks post-EOT)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-54" value="HBsAg Next positive&lt;div&gt;(n=4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-55" value="HBsAg Next negative&lt;div&gt;(n=16)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="466" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
