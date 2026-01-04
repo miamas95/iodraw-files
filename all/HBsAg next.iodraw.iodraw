@@ -50,6 +50,9 @@
         <mxCell id="xclhYbIk30ZTSkgp6g-b-55" value="HBsAg Next negative&lt;div&gt;(n=16)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="466" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xclhYbIk30ZTSkgp6g-b-56" value="HBsAg Next negative&lt;div&gt;(n=16)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="476" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
