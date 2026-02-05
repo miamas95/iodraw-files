@@ -90,9 +90,6 @@
         <mxCell id="iFZg3KW_5B1X9bJx--1o-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.459;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iFZg3KW_5B1X9bJx--1o-53" target="iFZg3KW_5B1X9bJx--1o-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MNQ_Kx45PmseoWxAjYK5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-1" target="MNQ_Kx45PmseoWxAjYK5-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MNQ_Kx45PmseoWxAjYK5-1" value="splenectomy&lt;div&gt;(n=158)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237" y="580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -196,9 +193,6 @@
               <mxPoint x="618" y="1349" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MNQ_Kx45PmseoWxAjYK5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-24" target="MNQ_Kx45PmseoWxAjYK5-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MNQ_Kx45PmseoWxAjYK5-24" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="297" y="640" width="156" height="25" as="geometry" />
