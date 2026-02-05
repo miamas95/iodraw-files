@@ -111,6 +111,86 @@
         <mxCell id="MNQ_Kx45PmseoWxAjYK5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-24" target="MNQ_Kx45PmseoWxAjYK5-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-32" value="脾切除组 &#xa; n=158" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="168" y="1035" width="124" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-33" value="肝硬化对照组 &#xa; n=152" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="1035" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-34" value="&lt;b&gt;排除标准&lt;/b&gt;&#xa;1. 合并其他恶性肿瘤&#xa;2. 随访时间 &amp;lt; 3个月&#xa;且未发生终点事件者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="1182" width="193" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-35" value="入选脾切除组 &#xa; n=61" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="276" y="1174" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-36" value="入选对照组 &#xa; n=81" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1174" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-37" value="1:1 PSM 匹配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="382" y="1290" width="141" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-38" value="匹配后脾切除组 &#xa; n=43" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1480" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-39" value="匹配后对照组 &#xa; n=43" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1480" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-32" target="MNQ_Kx45PmseoWxAjYK5-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-33" target="MNQ_Kx45PmseoWxAjYK5-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="552" y="1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-42" value="剔除 n=97" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.42;entryY=0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-32" target="MNQ_Kx45PmseoWxAjYK5-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-43" value="剔除 n=71" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.67;entryY=0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-33" target="MNQ_Kx45PmseoWxAjYK5-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.02;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-35" target="MNQ_Kx45PmseoWxAjYK5-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.02;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-36" target="MNQ_Kx45PmseoWxAjYK5-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="552" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-37" target="MNQ_Kx45PmseoWxAjYK5-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-37" target="MNQ_Kx45PmseoWxAjYK5-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
