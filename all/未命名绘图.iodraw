@@ -111,7 +111,7 @@
         <mxCell id="MNQ_Kx45PmseoWxAjYK5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-24" target="MNQ_Kx45PmseoWxAjYK5-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MNQ_Kx45PmseoWxAjYK5-32" value="脾切除组 &#xa; n=158" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-32" value="脾切除组 &#xa;（n=158）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="284" y="1046" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="MNQ_Kx45PmseoWxAjYK5-33" value="肝硬化组&#xa; n=152" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
