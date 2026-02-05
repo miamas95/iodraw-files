@@ -102,6 +102,95 @@
         <mxCell id="MNQ_Kx45PmseoWxAjYK5-4" value="cirhosis&lt;div&gt;(n=152)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="393" y="681" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-5" value="排除标准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="1017" width="274" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-6" value="脾切除组患者 &#xa; n=158" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="174" y="762" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-7" value="肝硬化组/对照组患者 &#xa; n=152" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="146" y="878" width="212" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-8" value="脾切除组入选 &#xa; n=61" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1042" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-9" value="对照组入选 &#xa; n=81" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1042" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-10" value="1. 合并其他恶性肿瘤 &#xa; 2. 随访时间 &amp;lt; 3个月且未发生终点事件者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-11" value="1:1 PSM 匹配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1183" width="141" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-12" value="匹配后脾切除组 &#xa; n=43" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1374" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-13" value="匹配后对照组 &#xa; n=43" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1374" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-6" target="MNQ_Kx45PmseoWxAjYK5-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-6" target="MNQ_Kx45PmseoWxAjYK5-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="412" y="853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-7" target="MNQ_Kx45PmseoWxAjYK5-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-17" value="剔除 n=97" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.11;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-6" target="MNQ_Kx45PmseoWxAjYK5-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="74" y="853" />
+              <mxPoint x="74" y="1017" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-18" value="剔除 n=71" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-7" target="MNQ_Kx45PmseoWxAjYK5-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="1017" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.02;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-8" target="MNQ_Kx45PmseoWxAjYK5-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="412" y="1158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.02;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-9" target="MNQ_Kx45PmseoWxAjYK5-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-11" target="MNQ_Kx45PmseoWxAjYK5-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="1349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNQ_Kx45PmseoWxAjYK5-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MNQ_Kx45PmseoWxAjYK5-11" target="MNQ_Kx45PmseoWxAjYK5-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="1349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
