@@ -11,7 +11,10 @@
           <mxGeometry x="269" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-4" value="HBsAg negative CHB patients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="269" y="229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMwOObmZX11jxYIhkjV3-5" value="HBsAg negative CHB patients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="239" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
