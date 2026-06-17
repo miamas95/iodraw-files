@@ -19,6 +19,9 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-6" value="HBsAg negative CHB patients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="226" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TMwOObmZX11jxYIhkjV3-7" value="study population&lt;div&gt;(n=93)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
