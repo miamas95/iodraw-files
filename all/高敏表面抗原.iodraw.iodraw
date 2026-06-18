@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TMwOObmZX11jxYIhkjV3-1" value="prospective-cohort" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-1" value="prospective-cohort" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="134" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;ambispective-cohort&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;ambispective-cohort&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="269" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-4" value="HBsAg negative CHB patients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
