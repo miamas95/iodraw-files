@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TMwOObmZX11jxYIhkjV3-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;ambispective-cohort&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="267" y="177" width="120" height="35" as="geometry" />
+          <mxGeometry x="269" y="167" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-4" value="HBsAg negative CHB patients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="226" width="120" height="60" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-10" value="off-treatment&lt;div&gt;（n=49）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="422" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMwOObmZX11jxYIhkjV3-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;ambispective-cohort&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="423" y="167" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
