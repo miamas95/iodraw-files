@@ -44,16 +44,16 @@
           <mxGeometry x="298" y="337" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-22" value="HBsAg Next(+)&lt;div&gt;(n=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="569" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="210" y="413" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-23" value="HBsAg Next(-)&lt;div&gt;(n=2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="657" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="298" y="413" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-24" value="HBsAg Next(+)&lt;div&gt;(n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="210.5" y="375" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-25" value="HBsAg Next(-)&lt;div&gt;(n=40)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="477" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="298" y="375" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
