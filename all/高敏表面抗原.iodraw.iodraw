@@ -8,7 +8,7 @@
           <mxGeometry x="140.5" y="213" width="101" height="12" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-16" value="HBsAg negative CHB patients enrolled between 2023 and 2024(n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="116.11" y="227" width="141.89" height="41" as="geometry" />
+          <mxGeometry x="116.11" y="222" width="144.89" height="46" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-17" value="on-treatment&lt;div&gt;(n=44)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="47.17" y="291" width="104" height="32" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="497" y="393.79" width="82" height="46" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-69" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="109.22" y="227" width="82" height="46" as="geometry" />
+          <mxGeometry x="109.22" y="222" width="82" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
