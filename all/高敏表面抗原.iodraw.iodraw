@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TMwOObmZX11jxYIhkjV3-3" value="&lt;span style=&quot;text-align: left; font-size: 11px;&quot;&gt;ambispective-cohort&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="204" y="167" width="120" height="35" as="geometry" />
+          <mxGeometry x="416" y="173" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-6" value="HBsAg negative CHB patients with treatment discontinuation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="654" y="215" width="120" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="210.5" y="398" width="82" height="46" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-27" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="386" y="389" width="82" height="46" as="geometry" />
+          <mxGeometry x="386" y="398" width="82" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
