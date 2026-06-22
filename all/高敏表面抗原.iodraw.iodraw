@@ -32,22 +32,22 @@
           <mxGeometry x="591" y="296" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-20" value="HBsAg Next(+)&lt;div&gt;(n=14)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="210.5" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="210.5" y="348" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-21" value="HBsAg Next(-)&lt;div&gt;(n=30)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="298" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="298" y="348" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-22" value="HBsAg Next(+)&lt;div&gt;(n=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="562" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="562" y="348" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-23" value="HBsAg Next(-)&lt;div&gt;(n=2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="649.5" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="649.5" y="348" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-24" value="HBsAg Next(+)&lt;div&gt;(n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="386" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="386" y="348" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-25" value="HBsAg Next(-)&lt;div&gt;(n=40)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="473.5" y="337" width="82" height="30" as="geometry" />
+          <mxGeometry x="473.5" y="348" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-26" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=3)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="209" y="385" width="82" height="46" as="geometry" />
