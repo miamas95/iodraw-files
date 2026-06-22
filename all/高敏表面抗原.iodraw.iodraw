@@ -40,7 +40,7 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-18" value="off-treatment(n=44)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="334" y="275" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-19" value="off-treatment(n=44)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-19" value="Spontaneous seroconversion(n=3)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="455" y="275" width="104" height="32" as="geometry" />
         </mxCell>
       </root>
