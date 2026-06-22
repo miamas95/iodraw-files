@@ -40,7 +40,7 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-25" value="HBsAg Next(-)&lt;div&gt;(n=40)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="277" y="343" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-26" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=3)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-26" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=3)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="14" y="393" width="82" height="46" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-27" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
@@ -79,10 +79,10 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-50" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="649.83" y="220.3" width="21.81" height="118.88" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-52" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-52" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="549" y="342" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-53" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-53" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="668" y="342" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-54" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
