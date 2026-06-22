@@ -55,8 +55,8 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-25" value="HBsAg Next(-)&lt;div&gt;(n=40)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="473.5" y="337" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-26" value="HBsAg Next(+)&lt;div&gt;(n=14)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="209" y="385" width="82" height="30" as="geometry" />
+        <mxCell id="TMwOObmZX11jxYIhkjV3-26" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=3)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="209" y="385" width="82" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
