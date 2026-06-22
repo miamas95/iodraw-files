@@ -44,10 +44,10 @@
           <mxGeometry x="298" y="337" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-22" value="HBsAg Next(+)&lt;div&gt;(n=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="210.5" y="413" width="82" height="30" as="geometry" />
+          <mxGeometry x="562" y="337" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-23" value="HBsAg Next(-)&lt;div&gt;(n=2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="298" y="413" width="82" height="30" as="geometry" />
+          <mxGeometry x="649.5" y="337" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-24" value="HBsAg Next(+)&lt;div&gt;(n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="386" y="337" width="82" height="30" as="geometry" />
