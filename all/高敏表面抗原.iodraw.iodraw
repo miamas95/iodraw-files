@@ -58,8 +58,11 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-27" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="386" y="398" width="82" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="TMwOObmZX11jxYIhkjV3-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TMwOObmZX11jxYIhkjV3-30" target="TMwOObmZX11jxYIhkjV3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-30" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="298" y="284" width="317" height="12" as="geometry" />
+          <mxGeometry x="298" y="284" width="343" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
