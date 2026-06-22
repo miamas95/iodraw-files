@@ -62,7 +62,7 @@
           <mxGeometry x="367" y="393.7" width="99" height="46.3" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-53" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="486" y="393.7" width="104" height="32" as="geometry" />
+          <mxGeometry x="486" y="393.7" width="103" height="45.3" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-54" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="415" y="374.7" width="8" height="19" as="geometry" />
