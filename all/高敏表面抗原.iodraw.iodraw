@@ -79,8 +79,8 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-59" value="off-treatment&lt;div&gt;(n=49)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="297" y="214" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-60" value="off-treatment&lt;div&gt;(n=49)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="311" width="104" height="32" as="geometry" />
+        <mxCell id="TMwOObmZX11jxYIhkjV3-61" value="HBsAg negative CHB patients with treatment discontinuation(n=46)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="401" y="238" width="163" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
