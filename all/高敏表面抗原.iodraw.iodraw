@@ -22,9 +22,6 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-16" value="HBsAg negative CHB patients(n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="419" y="243" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TMwOObmZX11jxYIhkjV3-17" target="TMwOObmZX11jxYIhkjV3-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-17" value="on-treatment&lt;div&gt;(n=44)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="247" y="296" width="104" height="32" as="geometry" />
         </mxCell>
