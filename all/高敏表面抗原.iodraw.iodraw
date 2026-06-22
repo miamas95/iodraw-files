@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TMwOObmZX11jxYIhkjV3-3" value="&lt;span style=&quot;text-align: left; font-size: 11px;&quot;&gt;ambispective-cohort&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140.5" y="206" width="101" height="12" as="geometry" />
+          <mxGeometry x="136.06" y="205" width="101" height="12" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-16" value="HBsAg negative CHB patients enrolled between 2023 and 2024(n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="114.11" y="222" width="144.89" height="46" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-62" value="off-treatment&lt;div&gt;(n=49)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="426.74" y="291" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-64" value="HBsAg negative CHB patients between 2025(n=49)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-64" value="HBsAg negative CHB patients enrolled after 2025(n=49)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="408.3" y="236" width="140.89" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-65" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-68" value="HBsAg &lt;span style=&quot;text-align: start;&quot;&gt;seroreversion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;(n=2)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="497" y="393.79" width="82" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="TMwOObmZX11jxYIhkjV3-70" value="HBsAg negative CHB patients enrolled between 2023 and 2024(n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="124.11" y="232" width="144.89" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
