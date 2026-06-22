@@ -14,7 +14,7 @@
           <mxGeometry x="145" y="243.3" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-17" value="on-treatment&lt;div&gt;(n=44)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="50.5" y="291" width="104" height="32" as="geometry" />
+          <mxGeometry x="47.17" y="291" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-18" value="off-treatment&lt;div&gt;(n=49)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="291" width="104" height="32" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="561" y="322.09" width="8" height="19" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-57" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="151.50000000000006" y="220.3" width="21.81" height="118.88" as="geometry" />
+          <mxGeometry x="149.50000000000006" y="220.3" width="21.81" height="118.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
