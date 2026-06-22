@@ -19,9 +19,6 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-13" value="HBsAg positive CHB patients(n=8)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="106.5" y="251" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TMwOObmZX11jxYIhkjV3-16" target="TMwOObmZX11jxYIhkjV3-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-16" value="HBsAg negative CHB patients(n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="419" y="243" width="104" height="32" as="geometry" />
         </mxCell>
@@ -60,6 +57,12 @@
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-30" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="298" y="284" width="346" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="TMwOObmZX11jxYIhkjV3-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="310" as="sourcePoint" />
+            <mxPoint x="534" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
