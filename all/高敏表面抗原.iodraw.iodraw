@@ -86,7 +86,7 @@
           <mxGeometry x="17" y="553" width="664.79" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-72" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11px;&quot;&gt;off-treatment* includes patients who discontinued nucleos(t)ide analogue(NA)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11px;&quot;&gt;therapy and those with spontaneous HBsAg seroclearance without treatment.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#c6dff8;" vertex="1" parent="1">
-          <mxGeometry x="14" y="449" width="344" height="44" as="geometry" />
+          <mxGeometry x="14" y="384" width="345" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
