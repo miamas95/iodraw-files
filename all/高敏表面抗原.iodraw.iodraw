@@ -67,8 +67,8 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-57" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="174.65" y="191.84" width="23.81" height="175.18" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-62" value="off-treatment: treatment discontinuation(time o)&lt;div&gt;(n=46)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="436.74" y="291" width="104" height="32" as="geometry" />
+        <mxCell id="TMwOObmZX11jxYIhkjV3-62" value="off-treatment: treatment discontinuation(time 0)&lt;span style=&quot;background-color: initial;&quot;&gt;(n=46)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="399" y="291" width="174" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-64" value="Ongoing cohort: HBsAg negative CHB patients enrolled after 2025(n=49)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="418.3" y="222" width="141.7" height="46" as="geometry" />
