@@ -16,7 +16,7 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-18" value="off-treatment*&lt;div&gt;(n=49)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="291" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-20" value="HBsAg Next(+)&lt;div&gt;(n=14)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-20" value="HBsAg-Next(+)&lt;div&gt;(n=14)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="14" y="343" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-21" value="HBsAg Next(-)&lt;div&gt;(n=30)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
