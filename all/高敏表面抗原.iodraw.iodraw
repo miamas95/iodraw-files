@@ -10,10 +10,10 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-16" value="HBsAg-negative CHB patients enrolled from 2023 to 2024(n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#AED6F1;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="114.11" y="222" width="144.89" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-17" value="on-treatment&lt;div&gt;(n=44)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#aed6f0;strokeColor=#36393d;opacity=90;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-17" value="on-treatment&lt;div&gt;(n=44)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#aed6f0;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="47.17" y="291" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-18" value="off-treatment*&lt;div&gt;(n=49)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#aed6f0;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-18" value="off-treatment*&lt;div&gt;(n=49)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#aed6f0;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="291" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-20" value="HBsAg-Next(+)&lt;div&gt;(n=14)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#aed6ef;strokeColor=#36393d;" vertex="1" parent="1">
