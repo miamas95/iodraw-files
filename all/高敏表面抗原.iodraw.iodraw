@@ -7,7 +7,7 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-3" value="&lt;span style=&quot;text-align: left; font-size: 11px;&quot;&gt;ambispective cohort&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="136.06" y="205" width="101" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-16" value="HBsAg-negative CHB patients enrolled from 2023 to 2024(n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#AED6F1;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-16" value="HBsAg-negative CHB patients enrolled from 2023 to 2024 (n=93)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#AED6F1;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="114.11" y="222" width="144.89" height="46" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-17" value="on-treatment&lt;div&gt;(n=44)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#aed6f0;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-62" value="off-treatment: treatment discontinuation(time 0)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(n=46)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ff9200;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="417.23" y="291" width="143" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-64" value="Ongoing cohort: HBsAg- negative CHB patients enrolled from 2025 onwards(n=46)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ff9200;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-64" value="Ongoing cohort: HBsAg- negative CHB patients enrolled from 2025 onwards (n=46)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=#ff9200;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="418.3" y="222" width="141.7" height="46" as="geometry" />
         </mxCell>
         <mxCell id="TMwOObmZX11jxYIhkjV3-65" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=#ff9200;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="TMwOObmZX11jxYIhkjV3-72" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11px;&quot;&gt;* includes patients who discontinued nucleos(t)ide analogue(NA)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11px;&quot;&gt;therapy or PEG-IFN and those with spontaneous HBsAg seroclearance without treatment.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#36393d;align=left;fillColor=#aed6ef;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="14" y="456" width="345" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="TMwOObmZX11jxYIhkjV3-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;All patients are monitored at 3-month intervals for up to 12 months following treatment discontinuation.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#36393d;align=left;fillColor=#ff9200;opacity=70;" vertex="1" parent="1">
+        <mxCell id="TMwOObmZX11jxYIhkjV3-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;All patients are monitored at 3-month intervals for up to 18 months following treatment discontinuation.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#36393d;align=left;fillColor=#ff9200;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="370.65" y="456" width="237" height="44" as="geometry" />
         </mxCell>
       </root>
